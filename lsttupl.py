@@ -1,0 +1,5 @@
+num = input("enter number : ")
+num1 = num.split(",")
+num2 = num2(num1)
+print('List : ', num1)
+print('Tuple : ', num2)
